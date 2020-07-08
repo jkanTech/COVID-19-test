@@ -1,5 +1,5 @@
 # COVID-19-test
-Une application de diagnostique du Virus COVID-19
+jjsjkc
 # Captures d'écran
 
 ![alt text](https://github.com/jkanTech/COVID-19-test/blob/master/screenshots/Screenshot_20200408-221207_Julisha.jpg)
